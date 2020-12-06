@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["Home"],"mappings":"2FAAA,wEACe,SAASA,IACtB,OAAO","file":"component---src-pages-404-js-616bba87957dfceb7647.js","sourcesContent":["import React from \"react\"\nexport default function Home() {\n  return <div>Hello Gatsby!</div>\n}\n"],"sourceRoot":""}

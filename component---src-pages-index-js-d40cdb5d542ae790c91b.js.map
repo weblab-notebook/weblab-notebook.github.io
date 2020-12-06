@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":[],"mappings":"2FAAA","file":"component---src-pages-index-js-d40cdb5d542ae790c91b.js","sourcesContent":["import Notebook from '../components/Notebook.bs'\n\nexport {\n  Notebook as default,\n}\n"],"sourceRoot":""}
