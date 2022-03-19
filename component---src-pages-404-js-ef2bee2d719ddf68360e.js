@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweblab_website=self.webpackChunkweblab_website||[]).push([[883],{429:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var u=n(7294);function l(){return u.createElement("div",null,"Hello Gatsby!")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-ef2bee2d719ddf68360e.js.map

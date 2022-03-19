@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-ef2bee2d719ddf68360e.js","mappings":"+KACe,SAASA,IACtB,OAAO","sources":["webpack://weblab-website/./src/pages/404.js"],"sourcesContent":["import React from \"react\"\nexport default function Home() {\n  return <div>Hello Gatsby!</div>\n}\n"],"names":["Home"],"sourceRoot":""}
